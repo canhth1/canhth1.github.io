@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.kol.dev",
+    "sha256_cert_fingerprints":
+    ["F5:C9:81:6E:D4:86:5A:45:C6:EA:FF:E2:B9:22:4A:93:0B:A9:DF:C8:28:F1:C9:72:6D:0A:31:BA:DE:FF:9B:11"]
+  }
+}]
